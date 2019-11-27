@@ -5,7 +5,7 @@ public class main {
 	public static void main(String[] args) {
 		int a, b, c = 2;
 		double gpa = 3.50;
-		String firstName = "Tinnapat Bokham";
+		String firstName = "BossNa";
 		
 		System.out.println("Hello My Name is " + firstName);
 		
@@ -18,11 +18,6 @@ public class main {
 		int[] even = new int[20];
 		String[] fruits = {"banana", "apple", "melon", "orange"};
 		
-		//for(int i=0; i<fruits.length; i++)
-		//	System.out.println(fruits[i]);
-		//for-each loop
-		//for(String f : fruits)
-		//	System.out.println(f);
 
 		String tel = "053-211-122";
 		String[] sp = tel.split("-");
